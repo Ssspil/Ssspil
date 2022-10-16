@@ -2,7 +2,8 @@
 
 <div align = "center">
 
-<h3>Jeong Seung Pil (정승필)</h3><br/>
+<h3>🧑‍💻Jeong Seung Pil (정승필)</h3><br/>
+🎁<br>
 Hello, I'm Ssspil.<br/>
 Have a good day
 
@@ -42,7 +43,7 @@ Have a good day
 <!----------툴 영역 끝------------------------------------------------------------------------------->
 
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Aox)](https://solved.ac/Aox/) -->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aox)](https://solved.ac/aox/) -->
 
 
 </div>
