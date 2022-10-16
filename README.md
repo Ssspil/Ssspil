@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-
 <div align = "center">
 
-<br/>
 <h3>Jeong Seung Pil (정승필)</h3><br/>
 Hello, I'm Ssspil.<br/>
 Have a good day
