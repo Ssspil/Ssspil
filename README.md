@@ -42,8 +42,17 @@ Have a good day
 
 <!----------툴 영역 끝------------------------------------------------------------------------------->
 
+<br/><br/>
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aox)](https://solved.ac/aox/) -->
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
+<br/>
+
+<h3>☂️ My Level 🌈</h3>
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aox)](https://solved.ac/aox/)
 
 
 </div>
