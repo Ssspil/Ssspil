@@ -22,12 +22,15 @@ Have a good day
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+
 
 <br>
 
