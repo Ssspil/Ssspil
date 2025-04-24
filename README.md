@@ -45,7 +45,6 @@ Have a good day
  
 <br/>
 
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat-squares&logo=intellij-idea&logoColor=white">
  <br>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
